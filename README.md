@@ -1,7 +1,3 @@
-Here's an updated version of your README to include the new projects and learning update:
-
----
-
 # 👋 Hi, I'm Sujay Potlapelly!
 
 Welcome to my GitHub profile! I’m a dedicated Computer Science and Applied Mathematics student at the University of Colorado Boulder with a passion for developing innovative software solutions and exploring the frontiers of technology—from machine learning to computational neuroscience.
@@ -24,13 +20,11 @@ I thrive on solving complex problems through both research and hands-on engineer
 I’m currently expanding my expertise in:
 - Advanced machine learning techniques and AI-driven applications.
 - Cloud-based architectures and CI/CD optimizations.
-- Cutting-edge research in computational neuroscience and biomechatronics.
 - **Higher education technology solutions** through my work with Edvise, a platform dedicated to improving student success and course planning (https://edvise.org).
 
 ## 💼 Notable Experiences
 ### Ibotta
-- **Role**: Software Engineer Intern | Denver, CO (Aug 2024 – Dec 2024)
-- **Highlights**: Developed the Ibotta Shopping ChatGPT plugin, integrating AI to deliver personalized shopping recommendations and streamline the grocery experience.
+- **Role**: Software Engineer Intern | Denver, CO
 
 ### Empower
 - **Role**: Software Engineer Intern | Denver, CO (May 2024 – Aug 2024)
