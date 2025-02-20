@@ -24,7 +24,7 @@ I’m currently expanding my expertise in:
 
 ## 💼 Notable Experiences
 ### Ibotta
-- **Role**: Software Engineer Intern | Denver, CO
+- **Role**: Incoming Software Engineer Intern | Denver, CO
 
 ### Empower
 - **Role**: Software Engineer Intern | Denver, CO (May 2024 – Aug 2024)
