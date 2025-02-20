@@ -1,3 +1,7 @@
+Here's an updated version of your README to include the new projects and learning update:
+
+---
+
 # 👋 Hi, I'm Sujay Potlapelly!
 
 Welcome to my GitHub profile! I’m a dedicated Computer Science and Applied Mathematics student at the University of Colorado Boulder with a passion for developing innovative software solutions and exploring the frontiers of technology—from machine learning to computational neuroscience.
@@ -21,6 +25,7 @@ I’m currently expanding my expertise in:
 - Advanced machine learning techniques and AI-driven applications.
 - Cloud-based architectures and CI/CD optimizations.
 - Cutting-edge research in computational neuroscience and biomechatronics.
+- **Higher education technology solutions** through my work with Edvise, a platform dedicated to improving student success and course planning (https://edvise.org).
 
 ## 💼 Notable Experiences
 ### Ibotta
@@ -45,9 +50,23 @@ I’m currently expanding my expertise in:
 - **Technologies**: Python, Firebase, React, Svelte, TypeScript.
 - **Impact**: Collaborated with university provosts to refine features and streamline the course-planning process.
 
+### Mini Git
+- **Overview**: Recreated git with Linked Lists, Stacks, Queues, and Hash Maps in C++. It mimics git functionality with commands like commit, branch, init, add, push, and clone.
+
+### Attack Lab
+- **Overview**: Applied five buffer overflow attacks (three code injection and two return-oriented programming attacks) on executable files using Assembly Code.
+
+### Performance Lab
+- **Overview**: Improved a program's performance by approximately 1000x through multi-threading and signal masking, achieving 4 CPE (originally close to 3900-4000 CPE).
+
 ### AI/ML Projects
 - **Overview**: Explored diverse machine learning techniques, including Bayesian classifiers, Markov models, and deep neural networks.
 - **Highlights**: Developed evolutionary strategies to train multilayer perceptrons for gaming applications like Flappy Bird.
+
+### Network Motifs Reproduction
+- **Overview**: Reproduced the results from the paper "Network Motifs: Simple Building Blocks of Complex Networks" by R. Milo et al., focusing on significant network motifs in the regulatory networks of E. coli and S. cerevisiae.
+- **Technologies**: Python, Network Analysis.
+- **Data**: Regulatory networks of E. coli and S. cerevisiae.
 
 ## 🤝 Leadership & Community
 ### Boulder Launchpad
