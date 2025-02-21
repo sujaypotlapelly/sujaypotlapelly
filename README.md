@@ -1,15 +1,7 @@
 # 👋 Hi, I'm Sujay Potlapelly!
 
-Welcome to my GitHub profile! I’m a dedicated Computer Science and Applied Mathematics student at the University of Colorado Boulder with a passion for developing innovative software solutions and exploring the frontiers of technology—from machine learning to computational neuroscience.
-
 ## 🌟 About Me
 I thrive on solving complex problems through both research and hands-on engineering. My journey spans impactful internships at leading institutions, pioneering projects that blend academia with real-world applications, and leadership roles that fuel entrepreneurial innovation.
-
-## 🔍 Areas of Expertise
-- **Software Engineering**: Building scalable, production-grade systems.
-- **Artificial Intelligence & Machine Learning**: Designing and deploying models to tackle challenging problems.
-- **Computational Neuroscience**: Leveraging data and algorithms to decode complex neural behavior.
-- **Entrepreneurship & Leadership**: Founding initiatives that connect innovative ideas with industry opportunities.
 
 ## 🛠️ Skills
 - **Programming Languages**: Python, Java, C/C++, SQL, JavaScript (React), HTML/CSS.
@@ -18,7 +10,7 @@ I thrive on solving complex problems through both research and hands-on engineer
 
 ## 🌱 Current Learning
 I’m currently expanding my expertise in:
-- Advanced machine learning techniques and AI-driven applications.
+- Machine learning techniques and AI-driven applications.
 - Cloud-based architectures and CI/CD optimizations.
 - **Higher education technology solutions** through my work with Edvise, a platform dedicated to improving student success and course planning (https://edvise.org).
 
@@ -71,5 +63,3 @@ I’m currently expanding my expertise in:
 - **Email**: [sujay.potlapelly@gmail.com](mailto:sujay.potlapelly@gmail.com)
 - **LinkedIn**: [Sujay Potlapelly](https://linkedin.com/in/sujaypotlapelly)
 - **GitHub**: [sujaypotlapelly](https://github.com/sujaypotlapelly)
-
-Feel free to explore my repositories and connect with me—let’s collaborate and drive innovation together!
